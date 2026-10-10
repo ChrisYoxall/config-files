@@ -8,6 +8,8 @@ Some good videos:
 - https://www.youtube.com/watch?v=kufiElToFHo with config repo at https://github.com/smnatale/dotfiles/tree/main/nvim/.config/nvim
 - https://www.youtube.com/watch?v=6mxWayq-s9I with config repo at https://github.com/josean-dev/dev-environment-files/tree/main/nvim/.config/nvim
 
+To Do:
+- Integrate the [render-markdown](https://github.com/meanderingprogrammer/render-markdown.nvim) plug-in.
 
 ## Commands
 
